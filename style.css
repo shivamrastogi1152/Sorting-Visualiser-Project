@@ -1,0 +1,63 @@
+.container {
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.btn {
+    background-color: white;
+    color: black;
+    padding: 1%;
+    cursor: pointer;
+    border: 1px transparent black;
+    border-radius: 75px;
+    margin: 20px;
+    transition: 0.5s;
+}
+
+/* .qsort {
+    padding: 1%;
+    cursor: pointer;
+}
+
+.bsort {
+    padding: 1%;
+    cursor: pointer;
+} */
+
+.qsort:hover{
+    background-color: black;
+    color: white;
+    transform: scale(1.3);
+}
+
+.bsort:hover{
+    background-color: black;
+    color: white;
+    transform: scale(1.3);
+}
+
+.isort:hover{
+    background-color: black;
+    color: white;
+    transform: scale(1.3);
+}
+
+.ssort:hover{
+    background-color: black;
+    color: white;
+    transform: scale(1.3);
+}
+
+.hsort:hover{
+    background-color: black;
+    color: white;
+    transform: scale(1.3);
+}
+.msort:hover{
+    background-color: black;
+    color: white;
+    transform: scale(1.3);
+}
